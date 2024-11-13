@@ -1,0 +1,22 @@
+{
+  "statusCode": 200,
+  "body": {
+    "user": {
+      "id": "1",
+      "city": "Minsk",
+      "country": "Belarusian",
+      "dialogs": [],
+      "events": [],
+      "gender": "man",
+      "instagram": "",
+      "nickname": "auriil",
+      "phone": 375257602453,
+      "photos": ["https://i.pravatar.cc/150?img=52"],
+      "role": "",
+      "state": "",
+      "token": "f23f23df23erf243rf24rf234fddseee2",
+      "vk": ""
+    },
+    "errorMessage": "Something wrong with user"
+  }
+}
